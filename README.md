@@ -1,9 +1,9 @@
-<h1 align="center"><b>Hi , I'm Enes Ergin </b>
+<h1 align="center"><b>Hi , I'm Tintun Naing </b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 <br>
 <div align="center">
-  🏫 Computer Engineer Student at Oslo Metropolitan University 🏫 <br><br>
+  🏫 Computer Science Student at Oslo Metropolitan University 🏫 <br><br>
   🧑‍🎓 Graduating 2022/2023 🧑‍🎓 <br><br>
   📫 Reach me at: tintunn26@gmail.com 📫
 </div>
