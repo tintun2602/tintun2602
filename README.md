@@ -4,7 +4,7 @@
 <br>
 <div align="center">
   🏫 Computer Science Student at Oslo Metropolitan University 🏫 <br><br>
-  🧑‍🎓 Graduating 2022/2023 🧑‍🎓 <br><br>
+  🧑‍🎓 BSc in Informatics, 1st year of MSc in Informatics with AI concentration🧑‍🎓 <br><br>
   📫 Reach me at: tintunn26@gmail.com 📫
 </div>
 
