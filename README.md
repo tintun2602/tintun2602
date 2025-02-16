@@ -2,13 +2,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 <br>
-<div align="center">
-  🏫 Computer Science Student at Oslo Metropolitan University 🏫 <br><br>
-  🧑‍🎓 BSc in Informatics, 1st year of MSc in Informatics with AI concentration🧑‍🎓 <br><br>
-  📫 Reach me at: tintunn26@gmail.com 📫
-</div>
-
-<br><br>
 
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tintun2602&theme=nightowl&show_icons=true&hide_border=false" height="225" alt="enesergin's most used languages"/>
